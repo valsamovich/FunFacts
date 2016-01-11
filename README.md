@@ -1,6 +1,6 @@
 # FunFacts
 
-Fun Facts Android application
+Fun Facts Android application with dynamic bakcground. Application have facts about science, nature, animals, etc.
 
 ## Requerments
 
