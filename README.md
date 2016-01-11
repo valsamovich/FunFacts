@@ -9,4 +9,5 @@ Fun Facts Android application with dynamic bakcground. Application have facts ab
 
 ## License
   
+  - Read licence [here](https://github.com/valerysamovich/FunFacts/blob/master/LICENSE)
   
