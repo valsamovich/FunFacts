@@ -3,7 +3,7 @@ package com.samovich.funfacts;
 import android.graphics.Color;
 import java.util.Random;
 
-public class ColorWheel {
+public class ColorGenerator {
 
     // Fields (Member Variables) - Properties about the object
     private String[] mColors = {

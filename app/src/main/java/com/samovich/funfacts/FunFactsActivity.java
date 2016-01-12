@@ -11,8 +11,8 @@ import android.widget.Toast;
 
 public class FunFactsActivity extends AppCompatActivity {
 
-    private FactBook mFactBook = new FactBook();
-    private ColorWheel mColorWheel = new ColorWheel();
+    private FactCollection mFactCollection = new FactCollection();
+    private ColorGenerator mColorGenerator = new ColorGenerator();
 
     // Declare our View variables
     private TextView mFactTextView;
@@ -34,8 +34,8 @@ public class FunFactsActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                String fact = mFactBook.getFact();
-                int color = mColorWheel.getColor();
+                String fact = mFactCollection.getFact();
+                int color = mColorGenerator.getColor();
 
                 // Update the screen with our dynamic fact
                 mFactTextView.setText(fact);
