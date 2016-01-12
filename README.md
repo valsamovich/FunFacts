@@ -1,10 +1,13 @@
-# FunFacts
-Fun Facts Android application
+# Fun Facts
+
+Fun Facts Android application with dynamic bakcground. Application have facts about science, nature, animals, etc.
 
 ## Requerments
 
-Minimum SDK API 15: Android 4.0.3 (IceCreamSandwich)
+- Minimum SDK API 15: Android 4.0.3 (IceCreamSandwich)
+- Gradle 1.5.0
 
 ## License
   
+  - Read licence [here](https://github.com/valerysamovich/FunFacts/blob/master/LICENSE)
   
