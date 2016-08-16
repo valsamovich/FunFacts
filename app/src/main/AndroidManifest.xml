@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.samovich.funfacts">
+    package="com.vsamov.funfacts">
 
     <application
         android:allowBackup="true"
@@ -8,7 +8,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".FunFactsActivity">
+        <activity android:name="com.vsamov.funfacts.FunFactsActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

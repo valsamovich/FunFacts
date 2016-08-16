@@ -1,4 +1,4 @@
-package com.samovich.funfacts;
+package com.vsamov.funfacts;
 
 import org.junit.Test;
 
