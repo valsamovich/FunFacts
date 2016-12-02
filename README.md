@@ -1,4 +1,4 @@
-# FunFacts [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](LICENSE)
+# FunFacts [![Build Status](https://travis-ci.org/vsamov/FunFacts.svg?branch=master)](https://travis-ci.org/vsamov/FunFacts) [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](LICENSE)
 
 Fun Facts Android application with dynamic background. Application have facts about science, nature, animals, etc.
 
