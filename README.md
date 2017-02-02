@@ -2,12 +2,11 @@
 
 Fun Facts Android application with dynamic background. Application have facts about science, nature, animals, etc.
 
-## Requirements
+## Installation
 
-- Minimum SDK API 15: Android 4.0.3 (IceCreamSandwich)
-- Gradle 1.5.0
-
-##
+- Requirements
+    - Minimum SDK API 15: Android 4.0.3 (IceCreamSandwich)
+    - Gradle 1.5.0
 
 To compile and test the project first time `local.properties` must be added to the root directory of the project. Example:
 
@@ -19,7 +18,12 @@ To compile and test the project first time `local.properties` must be added to t
     # header note. Example path:
     sdk.dir=/Users/[user-name]/Library/Android/sdk
 
-## License
-  
-  - Read licence [here](https://github.com/valerysamovich/FunFacts/blob/master/LICENSE)
-  
+## Run
+
+To run gradle project vi CLI
+
+    gradle build
+
+## Contribution
+
+Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a fork, add commits, and [open a pull request](https://github.com/fraction/readme-boilerplate/compare/).
